@@ -15,7 +15,7 @@ const countdownEl = document.getElementById('countdown');
 
 let questions = [];
 async function test () {
-    const data = await fetch('../questions.json')
+    const data = await fetch('https://api.jsonbin.io/b/60766eabee971419c4d931fa')
     const results = await data.json()
     questions = results
   startGame();
