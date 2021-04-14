@@ -1,0 +1,83 @@
+[
+    {
+    "question": "Inside which HTML element do we put the JavaScript??",
+    "choice1": "<script>",
+    "choice2": "<javascript>",
+    "choice3": "<js>",
+    "choice4": "<scripting>",
+    "answer": 1
+  },
+  {
+    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+    "choice1": "<script href='xxx.js'>",
+    "choice2": "<script name='xxx.js'>",
+    "choice3": "<script src='xxx.js'>",
+    "choice4": "<script file='xxx.js'>",
+    "answer": 3
+  },
+  {
+    "question": "Which is the correct way to write a JavaScript array?",
+    "choice1": "var txt = new Array(1:'tim',2:'kim',3:'jim')",
+    "choice2": "var txt = new Array:1=('tim')2=('kim')3=('jim')",
+    "choice3": "var txt = new Array('tim','kim','jim')",
+    "choice4": "var txt = new Array='tim','kim','jim';",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following event fires when the form element loses the focus: <button>, <input>, <label>, <select>, <textarea>?",
+    "choice1": "onfocus",
+    "choice2": "onblur",
+    "choice3": "onclick",
+    "choice4": "ondblclick",
+    "answer": 2
+  },
+  {
+    "question": "Which types of image maps can be used with JavaScript?",
+    "choice1": "Server-side image maps",
+    "choice2": "Client-side image maps",
+    "choice3": "Server-side image maps and Client-side image maps",
+    "choice4": "None of the above",
+    "answer": 2
+  },
+  {
+    "question": "Using a(n) _______ statement is how you test for a specific condition",
+    "choice1": "Select",
+    "choice2": "If",
+    "choice3": "Switch",
+    "choice4": "For",
+    "answer": 2
+  },
+  {
+    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+    "choice1": "It refers to the current object",
+    "choice2": "It refers to the previous object",
+    "choice3": "It is a variable which contains a value",
+    "choice4": "None of the above",
+    "answer": 1
+  },
+  {
+    "question": "How do you create a Date object in JavaScript?",
+    "choice1": "dateObjectName = new Date([parameters])",
+    "choice2": "dateObjectName.new Date([parameters])",
+    "choice3": "dateObjectName := new Date([parameters])",
+    "choice4": "dateObjectName Date([parameters])",
+    "answer": 1
+  },
+  {
+    "question": "The _______ method of an Array object adds and/or removes elements from an array.",
+    "choice1": "Reverse",
+    "choice2": "Shift",
+    "choice3": "Slice",
+    "choice4": "Splice",
+    "answer": 4
+  },
+  {
+    "question": "Which best explains getSelection()?",
+    "choice1": "Returns the VALUE of a selected OPTION",
+    "choice2": "Returns document.URL of the window in focus",
+    "choice3": "Returns the value of cursor-selected text",
+    "choice4": "Returns the VALUE of a checked radio input",
+    "answer": 3
+  }
+]
+
